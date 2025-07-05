@@ -1,0 +1,24 @@
+Êþº¾   4 "   com/library/AppTest   java/lang/Object <init> (Ljava/lang/String;)V Code  	 java/lang/Error 
+EUnresolved compilation problems: 
+	The import junit cannot be resolved
+	The import junit cannot be resolved
+	The import junit cannot be resolved
+	TestCase cannot be resolved to a type
+	Test cannot be resolved to a type
+	TestSuite cannot be resolved to a type
+	The method assertTrue(boolean) is undefined for the type AppTest
+
+  
+   LineNumberTable LocalVariableTable this Lcom/library/AppTest; suite ()LTest;  mUnresolved compilation problems: 
+	Test cannot be resolved to a type
+	TestSuite cannot be resolved to a type
+  testApp ()V  cUnresolved compilation problem: 
+	The method assertTrue(boolean) is undefined for the type AppTest
+ 
+SourceFile AppTest.java InconsistentHierarchy   Test    TestCase MissingTypes !                4     
+» Y
+· ¿                   
+     	        *      
+» Y· ¿                          4     
+» Y· ¿           $        
+                !      
